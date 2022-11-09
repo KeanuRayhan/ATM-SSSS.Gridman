@@ -1,2 +1,2 @@
-# TicTacToe-SSSS.Gridman
+# ATM-SSSS.Gridman
 Tugas Besar DDP
